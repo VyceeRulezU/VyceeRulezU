@@ -1,5 +1,8 @@
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Victor%20Ironali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Product%20Designer%20%26%20UX%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header" width="100%"/>
+
+<h1 align="center">Victor Ironali</h1>
+<h3 align="center">Senior Product Designer & UX Engineer</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
