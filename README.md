@@ -72,3 +72,9 @@ a React 18 + Vite + Supabase platform for governance education.
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+---
+
+### 🖼 Profile Preview
+
+![Profile Preview](./preview.png)
