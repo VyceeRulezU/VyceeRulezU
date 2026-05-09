@@ -50,13 +50,21 @@ a React 18 + Vite + Supabase platform for governance education.
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VyceeRulezU&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyceeRulezU&layout=compact&theme=midnight-purple&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VyceeRulezU&theme=midnight-purple&hide_border=true" />
+</p> -->
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VyceeRulezU&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyceeRulezU&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
 ---
