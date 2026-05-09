@@ -1,11 +1,9 @@
 <!-- HEADER BANNER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=9B5DE5&center=true&vCenter=true&width=600&lines=Victor+Ironali" />
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=160&section=header" width="100%"/>
 
 <h1 align="center">Victor Ironali</h1>
-<h3 align="center">Senior Product Designer & UX Engineer</h3> -->
+<h3 align="center">Senior Product Designer & UX Engineer</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
